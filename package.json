@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:yoshiki_aoki/nodebeginner.git"
+    "url": "git@github.com:yoshiki-aoki/NodeBeginnerBook.git"
   },
   "keywords": [
     "nodejs"
