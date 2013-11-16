@@ -1,0 +1,24 @@
+{
+  "name": "nodeBeginner",
+  "version": "0.0.0",
+  "description": "node Beginner's book",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "~1.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:yoshiki_aoki/nodebeginner.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ringo",
+  "license": "MIT",
+  "gitHead": "ea54ed5988963350ccf307165709349faf95751b"
+}
