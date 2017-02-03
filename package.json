@@ -4,7 +4,7 @@
   "description": "node Beginner's book",
   "main": "index.js",
   "dependencies": {
-    "formidable": "~1.0.14"
+    "formidable": "~1.1.1"
   },
   "devDependencies": {},
   "scripts": {
